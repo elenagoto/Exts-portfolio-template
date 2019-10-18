@@ -1,5 +1,0 @@
-<a href='https://www.freepik.com/free-vector/abstract-stylish-colorful-geometric-polygon-background_2500297.htm'>Designed by Freepik</a>
-
-font-family: 'Nunito', sans-serif;
-
-For number 52 add span and sup number + border radius 100px

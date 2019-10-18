@@ -2,7 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-    
+
   /*Color Variables */
     --black: #222222;
     --white: #FFFCF9;
@@ -367,7 +367,7 @@ main {
 
 
 footer {
-  background-color: var(--grey); 
+  background-color: var(--grey);
   flex-shrink: 0;
   width: 100%
 }
@@ -405,7 +405,7 @@ footer {
 .social-media:before {
   content: "";
   display: block;
-  padding-top: 100%;  
+  padding-top: 100%;
 }
 
 
